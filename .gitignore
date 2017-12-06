@@ -1,0 +1,6 @@
+*~
+*.mov
+*.avi
+*.jpg
+*.png
+__pycache__/*
